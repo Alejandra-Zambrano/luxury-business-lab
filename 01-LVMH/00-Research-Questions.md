@@ -17,6 +17,6 @@
 ### 5. What type of business hierarchy does LVMH employ, and how does LVMH executives communicate with individual brand's executives?
 
 
-### Think
+## Think
 ### 1. What lies in the future for LVMH, regarding new possible buyers and demographics? 
 ### 2. How has AI changed LVMH, and how do they balance the line between using it to be more productive yet maintaining the human creativity and authenticity that is expected from the brand
