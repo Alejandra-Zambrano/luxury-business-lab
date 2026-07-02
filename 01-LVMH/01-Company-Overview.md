@@ -90,9 +90,14 @@ LVMH Major partner of French Pavilion at Osaka-Kansai World Expo
 
 ### Leadership
 
+LVMH follows a decentralized organization model, which main purpose is to keep each Maison autonomous and reactive. They also have a vertical integration which allows LVMH to provide the absolute best quality of products and ensure all aspects of the production are up to regulations and standards set by the groups. Since 1989 Bernard Arnault has been CEO and Chairman of the LVMH group, and he is both part of the executive committee and the board of directors. The executive committee is formed by 14 members, diverse in gender, who head the Group's operational and functional entities. Their main duty is to assess strategies and put into motion goals and objectives set by the board of directors. The board of directors is composed by 77% of French executives yet has a just gender parity. The board focuses on formulating LVMH’s strategy to ensure growth while protecting the group’s interests.
+
 #
 
 ### Business Segments
+
+<img width="1536" height="1024" alt="LVMH Maisons" src="https://github.com/user-attachments/assets/bcfdc4a9-0139-410a-9588-591398fa8723" />
+
 
 #
 
