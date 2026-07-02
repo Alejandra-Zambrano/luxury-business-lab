@@ -98,10 +98,11 @@ LVMH follows a decentralized organization model, which main purpose is to keep e
 
 <img width="1536" height="1024" alt="LVMH Maisons" src="https://github.com/user-attachments/assets/bcfdc4a9-0139-410a-9588-591398fa8723" />
 
-
 #
 
 ### Global Presence
+
+<img width="1536" height="1024" alt="LVMH global presence " src="https://github.com/user-attachments/assets/63e16b1a-9a07-41b6-ab89-b963896c5279" />
 
 #
 
