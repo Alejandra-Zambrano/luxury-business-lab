@@ -97,15 +97,43 @@ LVMH follows a decentralized organization model, which main purpose is to keep e
 ### Business Segments
 
 <img width="1536" height="1024" alt="LVMH Maisons" src="https://github.com/user-attachments/assets/bcfdc4a9-0139-410a-9588-591398fa8723" />
+LVMH organizes its 75 maisons into six business segments, allowing each Maison to preserve its identity while benefiting from the scale and resources of the Group.
 
 #
 
 ### Global Presence
 
 <img width="1536" height="1024" alt="LVMH global presence " src="https://github.com/user-attachments/assets/63e16b1a-9a07-41b6-ab89-b963896c5279" />
+Revenue by Region
+- Asia-Pacific (including Japan): 34%
+- United States: 25%
+- Europe: 29%
+- Other Markets: 12%
+Employees
+- Approximately 213,000+ employees worldwide
+- Employees from 170+ nationalities
+- Expertise across 280+ métiers (crafts & professions)
+Main Markets
+- United States
+- China
+- Japan
+- France
+- South Korea
+- United Kingdom
+- Italy
+- United Arab Emirates
+Key Facts
+- €80.8 billion revenue (2025)
+- World's largest luxury group
+- Largest directly operated luxury retail network
+- Presence across every major luxury market
 
 #
 
 ### Why It Matters
 
-LVMH is the leading group in the luxury sector, and its influence has been transcending through the years. They do not just focus on the best form of delivery, and the excellent quality of the products, they observe the challenges that are plaguing our society and intervene, they ensure fairness and an ethical code rare for corporations of the size. LVMH initiatives search for inclusion and sustainability. LVMH has managed to become one of the biggest companies worldwide, while maintaining discretion, they have maintained each Maison essence so masterfully, when you think of one of their maisons you do not see LVMH, you see the Maison, the brand and the history, which LVMH respect and maintains while artfully aiding their growth, development and responsiveness to changing trends. Understanding how LVMH works, is understanding the luxury industry. Through the past years the luxury industry has been facing new evolving challenges, and the world develops, new generations arise and target demographics shift and expand. LVMH is the leading group in luxury, as they have Maisons in all six sectors, and have been tackling these new challenges in the past years with innovative ideas, which we will be assessing. Understanding LVMH and their actions is understanding why other luxury companies take a similar approach, what are the challenges they face and might face, and what strategy is the one that allows a luxury sector company stand out above all.
+## Why It Matters
+
+LVMH represents one of the most successful business models in the luxury industry. Rather than creating a single global brand, the Group has built its leadership by acquiring and developing independent Maisons while preserving each brand's identity, heritage, and creative direction. This unique balance between decentralization and operational scale has allowed LVMH to expand across multiple luxury sectors without compromising exclusivity.
+Studying LVMH provides valuable insights into how long-term value is created in luxury through strategic acquisitions, portfolio diversification, brand management, and disciplined leadership. The company's ability to combine creativity, craftsmanship, financial performance, and global expansion makes it an exceptional case study for understanding modern luxury business.
+For this reason, LVMH serves as an ideal starting point for this research project, offering a comprehensive perspective on the strategies, challenges, and opportunities that shape the global luxury industry today.
